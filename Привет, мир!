@@ -1,1 +1,13 @@
+1 задание 
 
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <script>
+    alert( 'Привет, мир!' );
+  </script>
+
+</body>
+</html>
